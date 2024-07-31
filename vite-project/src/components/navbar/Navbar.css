@@ -1,0 +1,15 @@
+.navbar{
+    background-color: transparent;
+}
+.custom-navbar {
+    padding-left: 9% !important;
+    padding-right: 9% !important;
+}
+.navbar-brand{
+    color: #fff !important;
+    font-weight: bold;
+}
+.nav-link{
+    color: #fff !important;
+    font-weight: bold !important;
+}
