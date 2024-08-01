@@ -8,6 +8,7 @@
 .navbar-brand{
     color: #fff !important;
     font-weight: bold;
+    margin: 0 !important;
 }
 .nav-link{
     color: #fff !important;
